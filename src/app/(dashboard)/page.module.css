@@ -1,0 +1,11 @@
+.right {
+  display: flex;
+  width: 100vw;
+  position: relative;
+}
+.child {
+  flex: 1;
+  margin-top: 1rem;
+  margin-left: 13rem;
+  overflow: auto;
+}
